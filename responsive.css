@@ -1,0 +1,10 @@
+/* responsive code  */
+@media (max-width: 992px) {
+   .resumeWrapper{
+        flex-direction: column;
+   }
+    
+   .heroWrapper{
+    flex-direction: column;
+   }
+}
